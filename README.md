@@ -1,6 +1,6 @@
-# Literature
+# Panorama Literature
 
-Literature is an app for organizing, screening, and reviewing academic papers for review projects.
+Panorama Literature is an app for organizing, screening, and reviewing academic papers for review projects.
 
 ![](./assets/preview.png)
 
