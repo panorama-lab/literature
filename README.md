@@ -1,6 +1,6 @@
 # Literature
 
-Literature is an app for organizing, screening, and reviewing academic papers for evidence synthesis and review projects.
+Literature is an app for organizing, screening, and reviewing academic papers for review projects.
 
 ![](./assets/preview.png)
 
