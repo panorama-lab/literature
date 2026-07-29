@@ -1,18 +1,18 @@
-# Panorama Literature
+# Panorama Review
 
-Panorama Literature is an app for organizing, screening, and reviewing academic papers for review projects.
+Panorama Review is an app for organizing, screening, and reviewing academic papers for review projects.
 
 ![](./assets/preview.png)
 
 ## Overview
 
-Literature helps research teams manage papers through the review workflow, from screening to coding and conflict resolution.
+Panorama Review helps research teams manage papers through the review workflow, from screening to coding and conflict resolution.
 
 ## Download
 
 Download the latest application build from the GitHub releases page:
 
-https://github.com/panorama-lab/literature/releases
+https://github.com/panorama-lab/review/releases
 
 ## Features
 
@@ -30,5 +30,5 @@ https://github.com/panorama-lab/literature/releases
 
 ## Community
 
-- Report bugs or request features: https://github.com/panorama-lab/literature/issues
+- Report bugs or request features: https://github.com/panorama-lab/review/issues
 - Join the Discord server: https://discord.gg/PtgNPuHMFs
